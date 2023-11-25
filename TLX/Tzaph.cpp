@@ -14,7 +14,15 @@ int main(){
 		cin>>B[i];
 		if (B[i] != B[0])
 		{
-			
+			EQUAL = false;
+		}
+		if (B[i] < B[i - 1])
+		{
+			NONDECREASING = false;
+		}
+		if (B[i] > B[i - 1])
+		{
+			NONINCREASING = false;
 		}
 		
 	}
