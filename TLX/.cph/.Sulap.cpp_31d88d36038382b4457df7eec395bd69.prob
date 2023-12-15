@@ -1,0 +1,1 @@
+{"name":"Local: Sulap","url":"d:\\PROGAMING\\Latihan Soal Toki\\TLX\\Sulap.cpp","tests":[{"id":1702042469316,"input":"2\n1 2\n2 1\n1\nA 2 B 2","output":"1 1\n2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROGAMING\\Latihan Soal Toki\\TLX\\Sulap.cpp","group":"local","local":true}
